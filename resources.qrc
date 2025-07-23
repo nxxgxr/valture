@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>ui/GlobalMenu.qml</file>
+        <file>ui/SideMenu.qml</file>
+        <file>ui/pages/DriversPage.qml</file>
+        <!-- Добавьте все QML-файлы -->
+        
+        <!-- Графика -->
+        <file>assets/background.jpg</file>
+        <file>assets/icons/optimize.svg</file>
+        <file>assets/icons/restore.svg</file>
+        <!-- Все иконки -->
+    </qresource>
+</RCC>
